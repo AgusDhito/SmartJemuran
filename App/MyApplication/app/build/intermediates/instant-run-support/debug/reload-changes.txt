@@ -1,0 +1,2 @@
+CHANGED,D:\Ardhito\Universitas\Semester 7\Sysprog - A\File\MyApplication\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\example\user\smartjemuran\app\MyApplication$override.class
+CHANGED,D:\Ardhito\Universitas\Semester 7\Sysprog - A\File\MyApplication\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
